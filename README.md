@@ -38,7 +38,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 ### 1. **Mega Store Sales Dashboard**
 - Built a dynamic dashboard showing **transactions, revenue, profit, and other KPI insights**.  
 - Tools: Excel, Power Query, Power Pivot
-- [View Project](#)
+- [View Project](https://github.com/kartavyaraj/Excel_Project-Retail_Sales_Dashboard-)
   
 ---
 
