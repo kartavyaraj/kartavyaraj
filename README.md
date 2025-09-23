@@ -53,7 +53,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ## 📫 Connect with Me
 
-[![Linkedin](https://skillicons.dev/icons?i=linkedin&theme=light)](www.linkedin.com/in/kartavyaraj) 
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/kartavyaraj)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kartavyarajput108@gmail.com)
 
 
