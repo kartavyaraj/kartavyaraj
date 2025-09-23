@@ -61,7 +61,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ## 📊 GitHub Stats
 
-![Kartavya Raj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kartavyaraj&show_icons=true&theme=radical&include_all_commits=true)  
+![Kartavya Raj's Stats](https://github-readme-stats.vercel.app/api?username=kartavyaraj&show_icons=true&theme=radical&cache_seconds=1800)  
 ![My Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kartavyaraj&layout=compact&theme=radical)  
 
 
