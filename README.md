@@ -1,6 +1,6 @@
 # Kartavya Raj 
 
-**`Aspiring Data Analyst | Turning Data into Meanngfull Insights`**
+### **`Aspiring Data Analyst | Turning Data into Meanngfull Insights`**
 
 I enjoy analyzing data, uncovering patterns, and presenting meaningful insights that help businesses make smarter decisions. Skilled in **Excel, Power BI, SQL**, and **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**, with a strong focus on data visualization and business analytics.
 
