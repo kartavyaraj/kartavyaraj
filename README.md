@@ -41,7 +41,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 - [View Project](https://github.com/kartavyaraj/Excel_Project-Retail_Sales_Dashboard-)
 
 ### **`Crime Analysis & Report Dashboard`**
-- Built a dynamic Crime Analysis Dashboard using Power BI & SQL to visualize crime trends, victim demographics, and actionable insights across India (2020–2024).  
+- Built a dynamic Crime Analysis Dashboard to visualize crime trends, victim demographics, and actionable insights across India (2020–2024).  
 - Tools: Power BI, SQL, Power Query
 - [View Project](https://github.com/kartavyaraj/SQL_PowerBI_Project-Crime_Analysis_Report_Dashboard) 
 
