@@ -42,8 +42,13 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ### **`Crime Analysis & Report Dashboard`**
 - Built a dynamic Crime Analysis Dashboard to visualize crime trends, victim demographics, and actionable insights across India (2020–2024).  
-- Tools: Power BI, SQL, Power Query
-- 🔗[View Project](https://github.com/kartavyaraj/SQL_PowerBI_Project-Crime_Analysis_Report_Dashboard) 
+- Tools: SQL, Power BI, Power Query
+- 🔗[View Project](https://github.com/kartavyaraj/SQL_PowerBI_Project-Crime_Analysis_Report_Dashboard)
+
+### **`Box Office Insights & Dashboard`**
+- Built an interactive Box Office Insights Dashboard to analyze global movie performance, uncover revenue trends, and highlight top-rated and high-grossing films (2000–2024). 
+- Tools: Python, SQL, Power BI
+- 🔗[View Project](https://github.com/kartavyaraj/Python_SQL_PowerBI_Project-Box_Office_Insights_Dashboard) 
 
 ---
 
