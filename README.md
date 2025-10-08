@@ -10,22 +10,28 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 **Data Analysis & Visualization**  
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black) 
-![EDA](https://img.shields.io/badge/EDA-4B0082?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgo)  
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
-**Databases**  
+**Databases & Queryings**  
+![SQL](https://img.shields.io/badge/SQL-00486D?style=for-the-badge)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-**Programming**  
+**Programming & Libraries**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-F1A53B?style=for-the-badge&logo=matplotlib&logoColor=white) 
-![Seaborn](https://img.shields.io/badge/Seaborn-4C77A0?style=for-the-badge&logo=seaborn&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003D5C?style=for-the-badge&logo=matplotlib&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4A82AA?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
+**Analytical Skills**  
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-005080?style=for-the-badge&logo=databricks&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-0077B6?style=for-the-badge&logo=chartdotjs&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-4A639B?style=for-the-badge&logo=rstudio&logoColor=white)
+![KPI Tracking](https://img.shields.io/badge/KPI%20Tracking-21409A?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Reporting](https://img.shields.io/badge/Reporting-1E90FF?style=for-the-badge&logo=powerbi&logoColor=white)
 
-**Tools & Environment**  
+**Tools & Platform**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
