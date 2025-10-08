@@ -70,14 +70,3 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=light)](https://www.linkedin.com/in/kartavyaraj)
 [![Gmail](https://skillicons.dev/icons?i=gmail&theme=light)](mailto:kartavyarajput108@gmail.com)
-
-
----
-
-## 📊 GitHub Stats
-
-![Kartavya Raj's Stats](https://github-readme-stats.vercel.app/api?username=kartavyaraj&show_icons=true&theme=radical&cache_seconds=1800)  
-
-
----
-
