@@ -1,6 +1,6 @@
 # Kartavya Raj 
 
-#### **`Aspiring Data Analyst | Turning Data into Meanngfull Insights`**
+#### **`Aspiring Data Analyst`**
 
 I enjoy analyzing data, uncovering patterns, and presenting meaningful insights that help businesses make smarter decisions. Skilled in **Excel, Power BI, SQL**, and **Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly)**, with a strong focus on data visualization and business analytics.
 
@@ -35,17 +35,17 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ## 📈 Projects
 
-### **`Retail Sales Dashboard`**
+### **`Retail Sales Performance Analysis & Interactive Dashboard`**
 - Built a dynamic dashboard showing transactions, revenue, profit, and other KPI insights.  
 - Tools: Excel, Power Query, Power Pivot
 - 🔗[View Project](https://github.com/kartavyaraj/Excel_Project-Retail_Sales_Dashboard-)
 
-### **`Crime Analysis & Report Dashboard`**
+### **`Crime Data Analysis & Visualization Dashboard`**
 - Built a dynamic Crime Analysis Dashboard to visualize crime trends, victim demographics, and actionable insights across India (2020–2024).  
 - Tools: SQL, Power BI, Power Query
 - 🔗[View Project](https://github.com/kartavyaraj/SQL_PowerBI_Project-Crime_Analysis_Report_Dashboard)
 
-### **`Box Office Insights & Dashboard`**
+### **`Box Office Data Analysis & Insights Dashboard`**
 - Built an interactive Box Office Insights Dashboard to analyze global movie performance, uncover revenue trends, and highlight top-rated and high-grossing films (2000–2024). 
 - Tools: Python, SQL, Power BI
 - 🔗[View Project](https://github.com/kartavyaraj/Python_SQL_PowerBI_Project-Box_Office_Insights_Dashboard) 
@@ -54,10 +54,9 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ## 🌟 Interests
 
-- Data Analysis & Business Intelligence  
-- Fraud Analytics
+- Data Analysis, Fraud Analytics & Business Intelligence  
 - Data Visualization
-- Exploring datasets to **solve real-world problems**  
+- Exploring datasets to solve real-world problems 
 
 ---
 
