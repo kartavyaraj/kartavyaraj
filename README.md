@@ -58,7 +58,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 ### **`Automated Sales KPI Reporting System`**
 - An automated retail sales reporting system that fetches data from PostgreSQL Database, generates KPI-based visual reports, and emails a PDF summary with charts. 
-- Tools: Python (Pandas, Matplotlib, Seaborn, Sqlalchemy.,etc), PostgreSQL
+- Tools: Python (Pandas, Matplotlib, Seaborn, SQLAlchemy.,etc), PostgreSQL
 - 🔗[View Project](https://github.com/kartavyaraj/Python_PostgreSQL_Project-Automated_Sales_KPI_Reporting_System)
   
 ---
