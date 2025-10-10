@@ -54,16 +54,13 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 ### **`Box Office Data Analysis & Insights Dashboard`**
 - Built an interactive Box Office Insights Dashboard to analyze global movie performance, uncover revenue trends, and highlight top-rated and high-grossing films (2000–2024). 
 - Tools: Python, SQL, Power BI
-- 🔗[View Project](https://github.com/kartavyaraj/Python_SQL_PowerBI_Project-Box_Office_Insights_Dashboard) 
+- 🔗[View Project](https://github.com/kartavyaraj/Python_SQL_PowerBI_Project-Box_Office_Insights_Dashboard)
 
----
-
-## 🌟 Interests
-
-- Data Analysis, Fraud Analytics & Business Intelligence  
-- Data Visualization
-- Exploring datasets to solve real-world problems 
-
+### **`Automated Sales KPI Reporting System`**
+- An automated retail sales reporting system that fetches data from PostgreSQL Database, generates KPI-based visual reports, and emails a PDF summary with charts. 
+- Tools: Python (Pandas, Matplotlib, Seaborn, Sqlalchemy.,etc), PostgreSQL
+- 🔗[View Project](https://github.com/kartavyaraj/Python_PostgreSQL_Project-Automated_Sales_KPI_Reporting_System)
+  
 ---
 
 ## 📫 Connect with Me
