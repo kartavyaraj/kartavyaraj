@@ -2,7 +2,7 @@
 
 #### **`Data Analyst`**
 
-I enjoy analyzing data, uncovering patterns, and presenting meaningful insights that help businesses make smarter decisions. Skilled in Excel, Power BI, SQL, and Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), with a strong focus on data visualization and business analytics.
+I enjoy analyzing data, uncovering patterns, presenting meaningful insights and automating manual works that help businesses make smarter decisions. Skilled in Excel, Power BI, SQL, and Python (Pandas, NumPy, Matplotlib, Seaborn, Plotly), with a strong focus on data visualization and business analytics.
 
 ---
 
