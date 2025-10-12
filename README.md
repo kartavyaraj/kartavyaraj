@@ -9,7 +9,7 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 ## 🛠️ Tech & Skills
 
 **Data Analysis & Visualization**  
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) 
+![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 **Databases & Queryings**  
@@ -26,10 +26,15 @@ I enjoy analyzing data, uncovering patterns, and presenting meaningful insights 
 
 **Analytical Skills**  
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-005080?style=for-the-badge&logo=databricks&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-0077B6?style=for-the-badge&logo=chartdotjs&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-4A639B?style=for-the-badge&logo=rstudio&logoColor=white)
-![KPI Tracking](https://img.shields.io/badge/KPI%20Tracking-21409A?style=for-the-badge&logo=googleanalytics&logoColor=white)
-![Reporting](https://img.shields.io/badge/Reporting-1E90FF?style=for-the-badge&logo=powerbi&logoColor=white)
+![Data Transformation](https://img.shields.io/badge/Data%20Transformation-FFD43B?style=for-the-badge&logoColor=black)
+![ETL Workflow](https://img.shields.io/badge/ETL%20Workflow-306998?style=for-the-badge&logoColor=white)
+![Data Modeling](https://img.shields.io/badge/Data%20Modeling-1D4ED8?style=for-the-badge&logo=database&logoColor=white)
+![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0F766E?style=for-the-badge&logo=anaconda&logoColor=white)
+![Statistical Analysis](https://img.shields.io/badge/Statistical%20Analysis-9333EA?style=for-the-badge&logoColor=white)
+![KPI Development](https://img.shields.io/badge/KPI%20Development-2563EB?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Dashboard Development](https://img.shields.io/badge/Dashboard%20Development-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Automation & Reporting](https://img.shields.io/badge/Automation%20%26%20Reporting-22C55E?style=for-the-badge&logoColor=white)
+
 
 **Tools & Platform**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
