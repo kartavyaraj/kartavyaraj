@@ -10,6 +10,7 @@ I enjoy analyzing data, uncovering patterns, presenting meaningful insights and 
 
 **Data Analysis & Visualization**  
 ![Advanced Excel](https://img.shields.io/badge/Advanced%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-2176FF?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
 **Databases & Queryings**  
@@ -27,6 +28,7 @@ I enjoy analyzing data, uncovering patterns, presenting meaningful insights and 
 **Analytical Skills**  
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-005080?style=for-the-badge&logo=databricks&logoColor=white)
 ![Data Transformation](https://img.shields.io/badge/Data%20Transformation-FFD43B?style=for-the-badge&logoColor=black)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FCD1QB?style=for-the-badge&logoColor=black)
 ![ETL Workflow](https://img.shields.io/badge/ETL%20Workflow-306998?style=for-the-badge&logoColor=white)
 ![Data Modeling](https://img.shields.io/badge/Data%20Modeling-1D4ED8?style=for-the-badge&logo=database&logoColor=white)
 ![Exploratory Data Analysis](https://img.shields.io/badge/Exploratory%20Data%20Analysis-0F766E?style=for-the-badge&logo=anaconda&logoColor=white)
@@ -46,17 +48,17 @@ I enjoy analyzing data, uncovering patterns, presenting meaningful insights and 
 
 ## 📈 Projects
 
-### **`Retail Sales Performance Analysis & Interactive Dashboard`**
+### **`Retail Business Performance Dashboard & Sales Analytics`**
 - Built a dynamic dashboard showing transactions, revenue, profit, and other KPI insights.  
 - Tools: Excel, Power Query, Power Pivot
 - 🔗[View Project](https://github.com/kartavyaraj/Excel_Project-Retail_Sales_Dashboard-)
 
-### **`Crime Data Analysis & Visualization Dashboard`**
+### **`Crime Pattern Analysis & Public Safety Dashboard`**
 - Built a dynamic Crime Analysis Dashboard to visualize crime trends, victim demographics, and actionable insights across India (2020–2024).  
 - Tools: SQL, Power BI, Power Query
 - 🔗[View Project](https://github.com/kartavyaraj/SQL_PowerBI_Project-Crime_Analysis_Report_Dashboard)
 
-### **`Box Office Data Analysis & Insights Dashboard`**
+### **`Box Office Revenue Intelligence Dashboard`**
 - Built an interactive Box Office Insights Dashboard to analyze global movie performance, uncover revenue trends, and highlight top-rated and high-grossing films (2000–2024). 
 - Tools: Python, SQL, Power BI
 - 🔗[View Project](https://github.com/kartavyaraj/Python_SQL_PowerBI_Project-Box_Office_Insights_Dashboard)
